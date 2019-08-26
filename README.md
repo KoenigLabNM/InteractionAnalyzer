@@ -1,6 +1,6 @@
-## InteractionAnalyzer
+# InteractionAnalyzer
 
-# Publication
+## Publication
 
 Characterizing activating and inhibiting protein interactions based on a genome-wide siRNA cellular phenotyping screen
 
@@ -14,13 +14,13 @@ Apichat Suratanee1,2, Martin H. Schaefer3, Zita Soons1,2, Heiko Mannsperger1,2, 
 
 Characterizing the activating and inhibiting effect of protein-protein interactions (PPI) is fundamental to gain insight into the complex signaling system of a human cell. A plethora of methods has been suggested to infer PPI from data, but none of them is able to characterize the effect of this interaction. We presented a novel computational development that employs mitotic phenotypes of a genome-wide RNAi knockdown screen and enables identifying the activating and inhibiting effects of PPIs (Suratanee et al., submitted). This webpage contains the accompanying software for this study.
 
-System requirements
+## System requirements
 
     Linux
     R package (version 2.15.0 or higher) with installed libraries e1071, MASS and ROCR.
     GNU Linear Programming Kit (GLPK)
 
-Downloads
+## Downloads
 
     Short manual
     InteractionAnalyzer.tar.gz
