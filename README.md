@@ -2,7 +2,7 @@
 
 ### Characterizing activating and inhibiting protein interactions based on a genome-wide siRNA cellular phenotyping screen
 
-Apichat Suratanee(1,2), Martin H. Schaefer(3), Zita Soons(1,2), Heiko Mannsperger(1,2), Nathalie Harder(1,2), Marcus Oswald(1,2), Markus Gipp(4), Ellen Ramminger(5), Guillermo Marcus(4), Reinhard Männer(4), Karl Rohr(1,2), Erich Wanker(3,5), Miguel A. Andrade-Navarro(3), Roland Eils(1,2*), Rainer König(1,2*)
+Apichat Suratanee(1,2), Martin H. Schaefer(3), Zita Soons(1,2), Heiko Mannsperger(1,2), Nathalie Harder(1,2), Marcus Oswald(1,2), Markus Gipp(4), Ellen Ramminger(5), Guillermo Marcus(4), Reinhard Männer(4), Karl Rohr(1,2), Erich Wanker(3,5), Miguel A. Andrade-Navarro(3), Roland Eils(1,2, *), Rainer König(1,2, *)
 
 1 Department of Bioinformatics and Functional Genomics, Institute of Pharmacy and Molecular Biotechnology, BioQuant, University of Heidelberg, INF 267, 69120 Heidelberg, Germany
 2 Division of Theoretical Bioinformatics, German Cancer Research Center, INF 280, 69120 Heidelberg, Germany
