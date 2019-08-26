@@ -21,5 +21,5 @@ Characterizing the activating and inhibiting effect of protein-protein interacti
 ## Downloads
 
     Short manual
-    InteractionAnalyzer.tar.gz (download from here https://drive.google.com/drive/folders/1cz4w0ffW60baTZpOmSfplgNGHRxX0z3h?usp=sharing)
+    InteractionAnalyzer.tar.gz (download from here )
 
