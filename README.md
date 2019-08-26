@@ -1,8 +1,6 @@
 # InteractionAnalyzer
 
-## Publication
-
-Characterizing activating and inhibiting protein interactions based on a genome-wide siRNA cellular phenotyping screen
+### Characterizing activating and inhibiting protein interactions based on a genome-wide siRNA cellular phenotyping screen
 
 Apichat Suratanee1,2, Martin H. Schaefer3, Zita Soons1,2, Heiko Mannsperger1,2, Nathalie Harder1,2, Marcus Oswald1,2, Markus Gipp4, Ellen Ramminger5, Guillermo Marcus4, Reinhard Männer4, Karl Rohr1,2, Erich Wanker3,5, Miguel A. Andrade-Navarro3, Roland Eils1,2,*, Rainer König1,2,*
 
