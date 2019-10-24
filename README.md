@@ -22,6 +22,5 @@ Characterizing the activating and inhibiting effect of protein-protein interacti
 
     Short manual
     InteractionAnalyzer.tar.gz
------
 
 Please cite: Suratanee A, Schaefer MH, Betts MJ, Soons Z, Mannsperger H, Harder N, et al. Characterizing protein interactions employing a genome-wide siRNA cellular phenotyping screen. PLoS Comput Biol. 2014;10(9):e1003814.
